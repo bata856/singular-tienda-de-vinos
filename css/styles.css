@@ -91,6 +91,16 @@ h1
         color: bisque;
     }
 
+    .legales p 
+    { 
+        color: white;
+        font-size: 18px;
+        padding: 40px;
+        text-align: justify;
+        font-weight: bold;
+
+    }
+
 
 .contenedor
     {
@@ -917,5 +927,7 @@ h1
         
     }
 
+
+    
     
 }
